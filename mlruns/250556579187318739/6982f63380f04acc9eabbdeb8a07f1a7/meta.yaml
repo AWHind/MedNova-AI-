@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/HP/Desktop/ing4/sem2/mednova-ai/notebooks/../mlruns/250556579187318739/6982f63380f04acc9eabbdeb8a07f1a7/artifacts
+end_time: 1771924610039
+entry_point_name: ''
+experiment_id: '250556579187318739'
+lifecycle_stage: active
+run_id: 6982f63380f04acc9eabbdeb8a07f1a7
+run_name: Semaine2_XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771924609871
+status: 3
+tags: []
+user_id: HP

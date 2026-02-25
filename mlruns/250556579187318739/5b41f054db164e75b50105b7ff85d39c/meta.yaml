@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/HP/Desktop/ing4/sem2/mednova-ai/notebooks/../mlruns/250556579187318739/5b41f054db164e75b50105b7ff85d39c/artifacts
+end_time: 1771924609857
+entry_point_name: ''
+experiment_id: '250556579187318739'
+lifecycle_stage: active
+run_id: 5b41f054db164e75b50105b7ff85d39c
+run_name: Semaine2_Random_Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771924609681
+status: 3
+tags: []
+user_id: HP
