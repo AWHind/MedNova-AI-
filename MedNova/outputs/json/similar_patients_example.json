@@ -1,0 +1,99 @@
+{
+  "query_patient": {
+    "age": 65,
+    "apache3s": 60,
+    "surv2md1": 0.4,
+    "meanbp": 70,
+    "hrt": 100,
+    "resp": 25,
+    "temp": 37.5,
+    "crea": 2.5,
+    "alb": 2.8,
+    "bili": 1.5,
+    "bun": 30,
+    "wblc": 12,
+    "hema": 28,
+    "sod": 135,
+    "glucose": 180,
+    "urine": 800,
+    "pafi1": 250,
+    "paco21": 42,
+    "ph": 7.32,
+    "num.co": 3,
+    "adlp": 4,
+    "adlsc": 3
+  },
+  "result": {
+    "query_cluster": 4,
+    "cluster_label": "🟡 Modéré",
+    "similar_patients": [
+      {
+        "age": 66.489,
+        "sex": "male",
+        "meanbp": 60.0,
+        "crea": 2.1,
+        "num.co": 2,
+        "complication": 1,
+        "cluster": 4,
+        "d.time": 95,
+        "rank": 1,
+        "distance": 2.486
+      },
+      {
+        "age": 67.932,
+        "sex": "female",
+        "meanbp": 75.0,
+        "crea": 0.9,
+        "num.co": 2,
+        "complication": 0,
+        "cluster": 4,
+        "d.time": 565,
+        "rank": 2,
+        "distance": 2.629
+      },
+      {
+        "age": 77.038,
+        "sex": "female",
+        "meanbp": 71.0,
+        "crea": 1.1,
+        "num.co": 3,
+        "complication": 0,
+        "cluster": 4,
+        "d.time": 723,
+        "rank": 3,
+        "distance": 2.674
+      },
+      {
+        "age": 72.578,
+        "sex": "female",
+        "meanbp": 60.0,
+        "crea": 0.9,
+        "num.co": 3,
+        "complication": 0,
+        "cluster": 4,
+        "d.time": 379,
+        "rank": 4,
+        "distance": 2.685
+      },
+      {
+        "age": 67.869,
+        "sex": "male",
+        "meanbp": 77.0,
+        "crea": 0.9,
+        "num.co": 4,
+        "complication": 1,
+        "cluster": 4,
+        "d.time": 87,
+        "rank": 5,
+        "distance": 2.782
+      }
+    ],
+    "distances": [
+      2.4864,
+      2.6292,
+      2.674,
+      2.6846,
+      2.782
+    ]
+  }
+}
