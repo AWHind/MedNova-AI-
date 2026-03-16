@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/HP/Desktop/ing4/sem2/mednova-ai/notebooks/../mlruns/250556579187318739/10e55f63373444509d552879e0315d20/artifacts
+end_time: 1771924488901
+entry_point_name: ''
+experiment_id: '250556579187318739'
+lifecycle_stage: active
+run_id: 10e55f63373444509d552879e0315d20
+run_name: Semaine2_Logistic_Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771924488721
+status: 3
+tags: []
+user_id: HP
