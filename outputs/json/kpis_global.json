@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "data_source": "UCI_OFFICIAL",
+    "n_patients": 9105
+  },
+  "global": {
+    "n_patients": 9105,
+    "taux_succes_pct": 72.95,
+    "taux_complication_pct": 43.25,
+    "taux_readmission_pct": 16.2,
+    "taux_mortalite_hosp_pct": 25.92,
+    "duree_sejour_moy_j": 17.7,
+    "duree_sejour_med_j": 11.0,
+    "cout_moyen_eur": 22781.0,
+    "cout_total_eur": 207422000,
+    "age_moyen": 62.7
+  },
+  "alerts": [
+    {
+      "kpi": "taux_complication_pct",
+      "valeur": 43.25,
+      "niveau": "WARNING 🟡",
+      "seuil_warning": 40.0,
+      "seuil_critical": 55.0
+    },
+    {
+      "kpi": "taux_readmission_pct",
+      "valeur": 16.2,
+      "niveau": "WARNING 🟡",
+      "seuil_warning": 15.0,
+      "seuil_critical": 25.0
+    },
+    {
+      "kpi": "taux_mortalite_hosp_pct",
+      "valeur": 25.92,
+      "niveau": "WARNING 🟡",
+      "seuil_warning": 25.0,
+      "seuil_critical": 40.0
+    },
+    {
+      "kpi": "duree_sejour_moy_j",
+      "valeur": 17.7,
+      "niveau": "WARNING 🟡",
+      "seuil_warning": 12.0,
+      "seuil_critical": 20.0
+    },
+    {
+      "kpi": "cout_moyen_eur",
+      "valeur": 22781.0,
+      "niveau": "CRITIQUE 🔴",
+      "seuil_warning": 12000,
+      "seuil_critical": 20000
+    }
+  ],
+  "thresholds": {
+    "taux_complication_pct": {
+      "warning": 40.0,
+      "critical": 55.0
+    },
+    "taux_mortalite_hosp_pct": {
+      "warning": 25.0,
+      "critical": 40.0
+    },
+    "duree_sejour_moy_j": {
+      "warning": 12.0,
+      "critical": 20.0
+    },
+    "taux_readmission_pct": {
+      "warning": 15.0,
+      "critical": 25.0
+    },
+    "cout_moyen_eur": {
+      "warning": 12000,
+      "critical": 20000
+    }
+  }
+}

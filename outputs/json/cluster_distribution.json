@@ -1,0 +1,37 @@
+{
+  "labels": [
+    "Cluster 0",
+    "Cluster 1",
+    "Cluster 2",
+    "Cluster 3",
+    "Cluster 4"
+  ],
+  "counts": [
+    234,
+    4526,
+    2788,
+    1009,
+    548
+  ],
+  "colors": [
+    "#2196F3",
+    "#4CAF50",
+    "#FF9800",
+    "#E91E63",
+    "#9C27B0"
+  ],
+  "risk": [
+    "🟠 Élevé",
+    "🟡 Modéré",
+    "🟡 Modéré",
+    "🟡 Modéré",
+    "🟡 Modéré"
+  ],
+  "complication_rates": [
+    64.5,
+    41.2,
+    44.8,
+    42.1,
+    45.8
+  ]
+}

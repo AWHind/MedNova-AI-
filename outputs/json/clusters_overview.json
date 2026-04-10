@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "n_clusters": 5,
+    "n_patients": 9105,
+    "data_source": "UCI_OFFICIAL",
+    "features_used": [
+      "age",
+      "num.co",
+      "meanbp",
+      "hrt",
+      "resp",
+      "temp",
+      "wblc",
+      "sod",
+      "crea",
+      "bili",
+      "alb",
+      "glucose",
+      "bun",
+      "urine",
+      "ph",
+      "adlp",
+      "adlsc"
+    ],
+    "pca_variance": {
+      "pc1": 0.1118,
+      "pc2": 0.0987
+    }
+  },
+  "clusters": [
+    {
+      "cluster_id": 0,
+      "n_patients": 234,
+      "pct_patients": 2.6,
+      "risk_label": "🟠 Élevé",
+      "complication_rate": 64.5,
+      "age_mean": 54.7,
+      "apache3s_mean": 0.0,
+      "surv2md1_mean": 0.0,
+      "meanbp_mean": 72.4,
+      "crea_mean": 3.22,
+      "alb_mean": 2.63,
+      "num_co_mean": 1.9,
+      "adlp_mean": 1.2,
+      "dominant_pathology": "ARF/MOSF w/Sepsis"
+    },
+    {
+      "cluster_id": 1,
+      "n_patients": 4526,
+      "pct_patients": 49.7,
+      "risk_label": "🟡 Modéré",
+      "complication_rate": 41.2,
+      "age_mean": 66.0,
+      "apache3s_mean": 0.0,
+      "surv2md1_mean": 0.0,
+      "meanbp_mean": 85.0,
+      "crea_mean": 1.35,
+      "alb_mean": 3.31,
+      "num_co_mean": 2.0,
+      "adlp_mean": 0.5,
+      "dominant_pathology": "ARF/MOSF w/Sepsis"
+    },
+    {
+      "cluster_id": 2,
+      "n_patients": 2788,
+      "pct_patients": 30.6,
+      "risk_label": "🟡 Modéré",
+      "complication_rate": 44.8,
+      "age_mean": 57.6,
+      "apache3s_mean": 0.0,
+      "surv2md1_mean": 0.0,
+      "meanbp_mean": 88.1,
+      "crea_mean": 1.35,
+      "alb_mean": 2.59,
+      "num_co_mean": 1.5,
+      "adlp_mean": 0.5,
+      "dominant_pathology": "ARF/MOSF w/Sepsis"
+    },
+    {
+      "cluster_id": 3,
+      "n_patients": 1009,
+      "pct_patients": 11.1,
+      "risk_label": "🟡 Modéré",
+      "complication_rate": 42.1,
+      "age_mean": 62.9,
+      "apache3s_mean": 0.0,
+      "surv2md1_mean": 0.0,
+      "meanbp_mean": 75.1,
+      "crea_mean": 4.62,
+      "alb_mean": 2.63,
+      "num_co_mean": 2.0,
+      "adlp_mean": 0.7,
+      "dominant_pathology": "ARF/MOSF w/Sepsis"
+    },
+    {
+      "cluster_id": 4,
+      "n_patients": 548,
+      "pct_patients": 6.0,
+      "risk_label": "🟡 Modéré",
+      "complication_rate": 45.8,
+      "age_mean": 63.3,
+      "apache3s_mean": 0.0,
+      "surv2md1_mean": 0.0,
+      "meanbp_mean": 85.3,
+      "crea_mean": 1.49,
+      "alb_mean": 2.96,
+      "num_co_mean": 2.3,
+      "adlp_mean": 4.6,
+      "dominant_pathology": "CHF"
+    }
+  ]
+}

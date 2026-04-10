@@ -1,0 +1,31 @@
+{
+  "last_updated": "2026-03-16",
+  "data_source": "UCI_OFFICIAL",
+  "n_patients": 9105,
+  "kpis_snapshot": {
+    "taux_succes": 72.95,
+    "taux_complication": 43.25,
+    "duree_sejour": 17.7,
+    "cout_moyen": 22781.0
+  },
+  "n_alertes_critiques": 1,
+  "n_alertes_warning": 4,
+  "services": [
+    "Neurologie",
+    "Oncologie",
+    "Hépato-gastro",
+    "Réanimation",
+    "Pneumologie",
+    "Cardiologie"
+  ],
+  "pathologies": [
+    "Coma",
+    "MOSF w/Malig",
+    "Lung Cancer",
+    "Cirrhosis",
+    "Colon Cancer",
+    "ARF/MOSF w/Sepsis",
+    "COPD",
+    "CHF"
+  ]
+}

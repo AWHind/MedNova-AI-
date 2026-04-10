@@ -1,0 +1,84 @@
+{
+  "pathologies": [
+    {
+      "pathologie": "Coma",
+      "n_patients": 596,
+      "pct_total": 6.5,
+      "taux_succes_pct": 34.73,
+      "taux_complication_pct": 73.66,
+      "duree_sejour_moy_j": 17.4,
+      "cout_moyen_eur": 21855.0,
+      "age_moyen": 64.9
+    },
+    {
+      "pathologie": "MOSF w/Malig",
+      "n_patients": 712,
+      "pct_total": 7.8,
+      "taux_succes_pct": 47.75,
+      "taux_complication_pct": 69.52,
+      "duree_sejour_moy_j": 17.1,
+      "cout_moyen_eur": 21856.0,
+      "age_moyen": 58.4
+    },
+    {
+      "pathologie": "Lung Cancer",
+      "n_patients": 908,
+      "pct_total": 10.0,
+      "taux_succes_pct": 75.77,
+      "taux_complication_pct": 63.0,
+      "duree_sejour_moy_j": 8.5,
+      "cout_moyen_eur": 11405.0,
+      "age_moyen": 62.0
+    },
+    {
+      "pathologie": "Cirrhosis",
+      "n_patients": 508,
+      "pct_total": 5.6,
+      "taux_succes_pct": 73.23,
+      "taux_complication_pct": 44.69,
+      "duree_sejour_moy_j": 13.8,
+      "cout_moyen_eur": 18657.0,
+      "age_moyen": 53.9
+    },
+    {
+      "pathologie": "Colon Cancer",
+      "n_patients": 512,
+      "pct_total": 5.6,
+      "taux_succes_pct": 88.28,
+      "taux_complication_pct": 42.97,
+      "duree_sejour_moy_j": 9.9,
+      "cout_moyen_eur": 12947.0,
+      "age_moyen": 62.3
+    },
+    {
+      "pathologie": "ARF/MOSF w/Sepsis",
+      "n_patients": 3515,
+      "pct_total": 38.6,
+      "taux_succes_pct": 70.81,
+      "taux_complication_pct": 37.89,
+      "duree_sejour_moy_j": 25.7,
+      "cout_moyen_eur": 32026.0,
+      "age_moyen": 61.1
+    },
+    {
+      "pathologie": "COPD",
+      "n_patients": 967,
+      "pct_total": 10.6,
+      "taux_succes_pct": 86.76,
+      "taux_complication_pct": 29.89,
+      "duree_sejour_moy_j": 13.7,
+      "cout_moyen_eur": 18408.0,
+      "age_moyen": 69.7
+    },
+    {
+      "pathologie": "CHF",
+      "n_patients": 1387,
+      "pct_total": 15.2,
+      "taux_succes_pct": 90.48,
+      "taux_complication_pct": 26.24,
+      "duree_sejour_moy_j": 11.3,
+      "cout_moyen_eur": 15862.0,
+      "age_moyen": 66.7
+    }
+  ]
+}
