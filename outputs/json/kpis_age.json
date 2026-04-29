@@ -1,0 +1,44 @@
+{
+  "age_groups": [
+    {
+      "age_group": "<40",
+      "n_patients": 871,
+      "taux_succes_pct": 76.35,
+      "taux_complication_pct": 32.15,
+      "duree_sejour_moy_j": 22.2,
+      "cout_moyen_eur": 27797.0
+    },
+    {
+      "age_group": "40-55",
+      "n_patients": 1756,
+      "taux_succes_pct": 76.03,
+      "taux_complication_pct": 38.04,
+      "duree_sejour_moy_j": 19.2,
+      "cout_moyen_eur": 24381.0
+    },
+    {
+      "age_group": "55-65",
+      "n_patients": 1965,
+      "taux_succes_pct": 74.55,
+      "taux_complication_pct": 42.8,
+      "duree_sejour_moy_j": 16.9,
+      "cout_moyen_eur": 21845.0
+    },
+    {
+      "age_group": "65-75",
+      "n_patients": 2450,
+      "taux_succes_pct": 72.9,
+      "taux_complication_pct": 46.24,
+      "duree_sejour_moy_j": 17.1,
+      "cout_moyen_eur": 22085.0
+    },
+    {
+      "age_group": "75+",
+      "n_patients": 2063,
+      "taux_succes_pct": 67.43,
+      "taux_complication_pct": 49.25,
+      "duree_sejour_moy_j": 16.2,
+      "cout_moyen_eur": 21020.0
+    }
+  ]
+}

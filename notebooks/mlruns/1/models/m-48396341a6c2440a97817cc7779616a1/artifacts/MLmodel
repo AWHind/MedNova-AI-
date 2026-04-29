@@ -1,0 +1,57 @@
+artifact_path: file:C:/Users/HP/Desktop/ing4/MedNova/MedNova/notebooks/mlruns/1/models/m-48396341a6c2440a97817cc7779616a1/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.14.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+is_signature_from_type_hint: false
+mlflow_version: 3.10.1
+model_id: m-48396341a6c2440a97817cc7779616a1
+model_size_bytes: 1496
+model_uuid: m-48396341a6c2440a97817cc7779616a1
+prompts: null
+run_id: 895ddfb0c6a4449a8415019303934a6a
+signature:
+  inputs: '[{"type": "double", "name": "age", "required": true}, {"type": "double",
+    "name": "sex", "required": true}, {"type": "double", "name": "dzgroup", "required":
+    true}, {"type": "double", "name": "dzclass", "required": true}, {"type": "double",
+    "name": "num.co", "required": true}, {"type": "double", "name": "edu", "required":
+    true}, {"type": "double", "name": "income", "required": true}, {"type": "double",
+    "name": "scoma", "required": true}, {"type": "double", "name": "charges", "required":
+    true}, {"type": "double", "name": "totcst", "required": true}, {"type": "double",
+    "name": "totmcst", "required": true}, {"type": "double", "name": "avtisst", "required":
+    true}, {"type": "double", "name": "race", "required": true}, {"type": "double",
+    "name": "sps", "required": true}, {"type": "double", "name": "aps", "required":
+    true}, {"type": "double", "name": "surv2m", "required": true}, {"type": "double",
+    "name": "surv6m", "required": true}, {"type": "double", "name": "hday", "required":
+    true}, {"type": "double", "name": "diabetes", "required": true}, {"type": "double",
+    "name": "dementia", "required": true}, {"type": "double", "name": "ca", "required":
+    true}, {"type": "double", "name": "prg2m", "required": true}, {"type": "double",
+    "name": "prg6m", "required": true}, {"type": "double", "name": "dnr", "required":
+    true}, {"type": "double", "name": "dnrday", "required": true}, {"type": "double",
+    "name": "meanbp", "required": true}, {"type": "double", "name": "wblc", "required":
+    true}, {"type": "double", "name": "hrt", "required": true}, {"type": "double",
+    "name": "resp", "required": true}, {"type": "double", "name": "temp", "required":
+    true}, {"type": "double", "name": "pafi", "required": true}, {"type": "double",
+    "name": "alb", "required": true}, {"type": "double", "name": "bili", "required":
+    true}, {"type": "double", "name": "crea", "required": true}, {"type": "double",
+    "name": "sod", "required": true}, {"type": "double", "name": "ph", "required":
+    true}, {"type": "double", "name": "glucose", "required": true}, {"type": "double",
+    "name": "bun", "required": true}, {"type": "double", "name": "urine", "required":
+    true}, {"type": "double", "name": "adlp", "required": true}, {"type": "double",
+    "name": "adls", "required": true}, {"type": "double", "name": "sfdm2", "required":
+    true}, {"type": "double", "name": "adlsc", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-03-15 12:44:55.594260'

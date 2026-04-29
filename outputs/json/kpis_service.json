@@ -1,0 +1,52 @@
+{
+  "services": [
+    {
+      "service": "Neurologie",
+      "n_patients": 596,
+      "taux_succes_pct": 34.73,
+      "taux_complication_pct": 73.66,
+      "duree_sejour_moy_j": 17.4,
+      "cout_moyen_eur": 21855.0
+    },
+    {
+      "service": "Oncologie",
+      "n_patients": 1420,
+      "taux_succes_pct": 80.28,
+      "taux_complication_pct": 55.77,
+      "duree_sejour_moy_j": 9.0,
+      "cout_moyen_eur": 11961.0
+    },
+    {
+      "service": "Hépato-gastro",
+      "n_patients": 508,
+      "taux_succes_pct": 73.23,
+      "taux_complication_pct": 44.69,
+      "duree_sejour_moy_j": 13.8,
+      "cout_moyen_eur": 18657.0
+    },
+    {
+      "service": "Réanimation",
+      "n_patients": 4227,
+      "taux_succes_pct": 66.93,
+      "taux_complication_pct": 43.22,
+      "duree_sejour_moy_j": 24.2,
+      "cout_moyen_eur": 30313.0
+    },
+    {
+      "service": "Pneumologie",
+      "n_patients": 967,
+      "taux_succes_pct": 86.76,
+      "taux_complication_pct": 29.89,
+      "duree_sejour_moy_j": 13.7,
+      "cout_moyen_eur": 18408.0
+    },
+    {
+      "service": "Cardiologie",
+      "n_patients": 1387,
+      "taux_succes_pct": 90.48,
+      "taux_complication_pct": 26.24,
+      "duree_sejour_moy_j": 11.3,
+      "cout_moyen_eur": 15862.0
+    }
+  ]
+}

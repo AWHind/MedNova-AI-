@@ -1,0 +1,508 @@
+{
+  "monthly": [
+    {
+      "mois_admission": "1989-06",
+      "n_patients": 166,
+      "taux_complication": 43.37,
+      "taux_succes": 71.08,
+      "duree_sejour_moy": 18.4,
+      "cout_moyen": 23492.0,
+      "taux_readmission": 14.46
+    },
+    {
+      "mois_admission": "1989-07",
+      "n_patients": 149,
+      "taux_complication": 37.58,
+      "taux_succes": 75.17,
+      "duree_sejour_moy": 19.0,
+      "cout_moyen": 24295.0,
+      "taux_readmission": 12.75
+    },
+    {
+      "mois_admission": "1989-08",
+      "n_patients": 147,
+      "taux_complication": 38.78,
+      "taux_succes": 76.19,
+      "duree_sejour_moy": 19.1,
+      "cout_moyen": 24433.0,
+      "taux_readmission": 14.97
+    },
+    {
+      "mois_admission": "1989-09",
+      "n_patients": 154,
+      "taux_complication": 42.86,
+      "taux_succes": 72.08,
+      "duree_sejour_moy": 15.1,
+      "cout_moyen": 19745.0,
+      "taux_readmission": 14.94
+    },
+    {
+      "mois_admission": "1989-10",
+      "n_patients": 174,
+      "taux_complication": 39.08,
+      "taux_succes": 72.99,
+      "duree_sejour_moy": 17.5,
+      "cout_moyen": 22540.0,
+      "taux_readmission": 12.07
+    },
+    {
+      "mois_admission": "1989-11",
+      "n_patients": 153,
+      "taux_complication": 39.87,
+      "taux_succes": 77.12,
+      "duree_sejour_moy": 18.3,
+      "cout_moyen": 23438.0,
+      "taux_readmission": 16.99
+    },
+    {
+      "mois_admission": "1989-12",
+      "n_patients": 178,
+      "taux_complication": 45.51,
+      "taux_succes": 70.22,
+      "duree_sejour_moy": 19.0,
+      "cout_moyen": 24238.0,
+      "taux_readmission": 15.73
+    },
+    {
+      "mois_admission": "1990-01",
+      "n_patients": 155,
+      "taux_complication": 47.1,
+      "taux_succes": 74.84,
+      "duree_sejour_moy": 16.2,
+      "cout_moyen": 21246.0,
+      "taux_readmission": 21.94
+    },
+    {
+      "mois_admission": "1990-02",
+      "n_patients": 141,
+      "taux_complication": 47.52,
+      "taux_succes": 68.79,
+      "duree_sejour_moy": 19.9,
+      "cout_moyen": 25299.0,
+      "taux_readmission": 16.31
+    },
+    {
+      "mois_admission": "1990-03",
+      "n_patients": 150,
+      "taux_complication": 48.67,
+      "taux_succes": 72.0,
+      "duree_sejour_moy": 16.2,
+      "cout_moyen": 20832.0,
+      "taux_readmission": 20.67
+    },
+    {
+      "mois_admission": "1990-04",
+      "n_patients": 151,
+      "taux_complication": 48.34,
+      "taux_succes": 68.87,
+      "duree_sejour_moy": 16.9,
+      "cout_moyen": 21825.0,
+      "taux_readmission": 17.22
+    },
+    {
+      "mois_admission": "1990-05",
+      "n_patients": 150,
+      "taux_complication": 44.67,
+      "taux_succes": 72.0,
+      "duree_sejour_moy": 18.6,
+      "cout_moyen": 23917.0,
+      "taux_readmission": 16.67
+    },
+    {
+      "mois_admission": "1990-06",
+      "n_patients": 163,
+      "taux_complication": 53.99,
+      "taux_succes": 68.1,
+      "duree_sejour_moy": 16.4,
+      "cout_moyen": 21212.0,
+      "taux_readmission": 22.09
+    },
+    {
+      "mois_admission": "1990-07",
+      "n_patients": 168,
+      "taux_complication": 36.9,
+      "taux_succes": 75.0,
+      "duree_sejour_moy": 19.0,
+      "cout_moyen": 24238.0,
+      "taux_readmission": 11.9
+    },
+    {
+      "mois_admission": "1990-08",
+      "n_patients": 167,
+      "taux_complication": 43.71,
+      "taux_succes": 75.45,
+      "duree_sejour_moy": 13.6,
+      "cout_moyen": 17840.0,
+      "taux_readmission": 19.16
+    },
+    {
+      "mois_admission": "1990-09",
+      "n_patients": 148,
+      "taux_complication": 45.27,
+      "taux_succes": 72.3,
+      "duree_sejour_moy": 15.7,
+      "cout_moyen": 20327.0,
+      "taux_readmission": 17.57
+    },
+    {
+      "mois_admission": "1990-10",
+      "n_patients": 174,
+      "taux_complication": 40.8,
+      "taux_succes": 75.86,
+      "duree_sejour_moy": 17.9,
+      "cout_moyen": 23014.0,
+      "taux_readmission": 16.67
+    },
+    {
+      "mois_admission": "1990-11",
+      "n_patients": 158,
+      "taux_complication": 43.67,
+      "taux_succes": 72.78,
+      "duree_sejour_moy": 18.7,
+      "cout_moyen": 23858.0,
+      "taux_readmission": 16.46
+    },
+    {
+      "mois_admission": "1990-12",
+      "n_patients": 167,
+      "taux_complication": 44.31,
+      "taux_succes": 71.86,
+      "duree_sejour_moy": 16.6,
+      "cout_moyen": 21358.0,
+      "taux_readmission": 16.17
+    },
+    {
+      "mois_admission": "1991-01",
+      "n_patients": 164,
+      "taux_complication": 42.68,
+      "taux_succes": 72.56,
+      "duree_sejour_moy": 18.5,
+      "cout_moyen": 23766.0,
+      "taux_readmission": 15.24
+    },
+    {
+      "mois_admission": "1991-02",
+      "n_patients": 151,
+      "taux_complication": 47.02,
+      "taux_succes": 70.86,
+      "duree_sejour_moy": 17.7,
+      "cout_moyen": 22683.0,
+      "taux_readmission": 17.88
+    },
+    {
+      "mois_admission": "1991-03",
+      "n_patients": 174,
+      "taux_complication": 29.89,
+      "taux_succes": 77.59,
+      "duree_sejour_moy": 15.8,
+      "cout_moyen": 20391.0,
+      "taux_readmission": 7.47
+    },
+    {
+      "mois_admission": "1991-04",
+      "n_patients": 156,
+      "taux_complication": 48.72,
+      "taux_succes": 67.31,
+      "duree_sejour_moy": 18.1,
+      "cout_moyen": 23077.0,
+      "taux_readmission": 16.03
+    },
+    {
+      "mois_admission": "1991-05",
+      "n_patients": 168,
+      "taux_complication": 41.67,
+      "taux_succes": 73.21,
+      "duree_sejour_moy": 16.5,
+      "cout_moyen": 21317.0,
+      "taux_readmission": 14.88
+    },
+    {
+      "mois_admission": "1991-06",
+      "n_patients": 140,
+      "taux_complication": 45.0,
+      "taux_succes": 75.71,
+      "duree_sejour_moy": 18.4,
+      "cout_moyen": 23566.0,
+      "taux_readmission": 20.71
+    },
+    {
+      "mois_admission": "1991-07",
+      "n_patients": 156,
+      "taux_complication": 42.31,
+      "taux_succes": 76.92,
+      "duree_sejour_moy": 16.6,
+      "cout_moyen": 21410.0,
+      "taux_readmission": 19.23
+    },
+    {
+      "mois_admission": "1991-08",
+      "n_patients": 167,
+      "taux_complication": 46.11,
+      "taux_succes": 73.05,
+      "duree_sejour_moy": 17.4,
+      "cout_moyen": 22232.0,
+      "taux_readmission": 19.16
+    },
+    {
+      "mois_admission": "1991-09",
+      "n_patients": 161,
+      "taux_complication": 52.8,
+      "taux_succes": 60.87,
+      "duree_sejour_moy": 18.1,
+      "cout_moyen": 23207.0,
+      "taux_readmission": 13.66
+    },
+    {
+      "mois_admission": "1991-10",
+      "n_patients": 175,
+      "taux_complication": 41.14,
+      "taux_succes": 70.86,
+      "duree_sejour_moy": 19.6,
+      "cout_moyen": 24969.0,
+      "taux_readmission": 12.0
+    },
+    {
+      "mois_admission": "1991-11",
+      "n_patients": 176,
+      "taux_complication": 42.05,
+      "taux_succes": 72.73,
+      "duree_sejour_moy": 18.6,
+      "cout_moyen": 23859.0,
+      "taux_readmission": 14.77
+    },
+    {
+      "mois_admission": "1991-12",
+      "n_patients": 194,
+      "taux_complication": 42.78,
+      "taux_succes": 73.2,
+      "duree_sejour_moy": 18.0,
+      "cout_moyen": 22924.0,
+      "taux_readmission": 15.98
+    },
+    {
+      "mois_admission": "1992-01",
+      "n_patients": 174,
+      "taux_complication": 45.98,
+      "taux_succes": 70.69,
+      "duree_sejour_moy": 15.7,
+      "cout_moyen": 20428.0,
+      "taux_readmission": 16.67
+    },
+    {
+      "mois_admission": "1992-02",
+      "n_patients": 152,
+      "taux_complication": 42.76,
+      "taux_succes": 73.03,
+      "duree_sejour_moy": 16.9,
+      "cout_moyen": 21692.0,
+      "taux_readmission": 15.79
+    },
+    {
+      "mois_admission": "1992-03",
+      "n_patients": 160,
+      "taux_complication": 35.0,
+      "taux_succes": 75.62,
+      "duree_sejour_moy": 17.8,
+      "cout_moyen": 22978.0,
+      "taux_readmission": 10.62
+    },
+    {
+      "mois_admission": "1992-04",
+      "n_patients": 147,
+      "taux_complication": 40.82,
+      "taux_succes": 72.11,
+      "duree_sejour_moy": 15.1,
+      "cout_moyen": 19722.0,
+      "taux_readmission": 12.93
+    },
+    {
+      "mois_admission": "1992-05",
+      "n_patients": 162,
+      "taux_complication": 46.3,
+      "taux_succes": 73.46,
+      "duree_sejour_moy": 20.6,
+      "cout_moyen": 26267.0,
+      "taux_readmission": 19.75
+    },
+    {
+      "mois_admission": "1992-06",
+      "n_patients": 182,
+      "taux_complication": 37.36,
+      "taux_succes": 75.27,
+      "duree_sejour_moy": 18.1,
+      "cout_moyen": 23270.0,
+      "taux_readmission": 12.64
+    },
+    {
+      "mois_admission": "1992-07",
+      "n_patients": 188,
+      "taux_complication": 44.15,
+      "taux_succes": 73.4,
+      "duree_sejour_moy": 20.3,
+      "cout_moyen": 25930.0,
+      "taux_readmission": 17.55
+    },
+    {
+      "mois_admission": "1992-08",
+      "n_patients": 167,
+      "taux_complication": 46.11,
+      "taux_succes": 71.86,
+      "duree_sejour_moy": 18.8,
+      "cout_moyen": 23971.0,
+      "taux_readmission": 17.96
+    },
+    {
+      "mois_admission": "1992-09",
+      "n_patients": 162,
+      "taux_complication": 40.74,
+      "taux_succes": 71.6,
+      "duree_sejour_moy": 19.7,
+      "cout_moyen": 25173.0,
+      "taux_readmission": 12.35
+    },
+    {
+      "mois_admission": "1992-10",
+      "n_patients": 171,
+      "taux_complication": 45.03,
+      "taux_succes": 75.44,
+      "duree_sejour_moy": 17.4,
+      "cout_moyen": 22550.0,
+      "taux_readmission": 20.47
+    },
+    {
+      "mois_admission": "1992-11",
+      "n_patients": 162,
+      "taux_complication": 44.44,
+      "taux_succes": 74.69,
+      "duree_sejour_moy": 19.3,
+      "cout_moyen": 24728.0,
+      "taux_readmission": 19.14
+    },
+    {
+      "mois_admission": "1992-12",
+      "n_patients": 164,
+      "taux_complication": 40.85,
+      "taux_succes": 78.05,
+      "duree_sejour_moy": 15.1,
+      "cout_moyen": 19729.0,
+      "taux_readmission": 18.9
+    },
+    {
+      "mois_admission": "1993-01",
+      "n_patients": 166,
+      "taux_complication": 42.17,
+      "taux_succes": 71.69,
+      "duree_sejour_moy": 18.3,
+      "cout_moyen": 23511.0,
+      "taux_readmission": 13.86
+    },
+    {
+      "mois_admission": "1993-02",
+      "n_patients": 150,
+      "taux_complication": 42.0,
+      "taux_succes": 72.0,
+      "duree_sejour_moy": 18.8,
+      "cout_moyen": 24107.0,
+      "taux_readmission": 14.0
+    },
+    {
+      "mois_admission": "1993-03",
+      "n_patients": 172,
+      "taux_complication": 43.6,
+      "taux_succes": 73.84,
+      "duree_sejour_moy": 17.7,
+      "cout_moyen": 22723.0,
+      "taux_readmission": 17.44
+    },
+    {
+      "mois_admission": "1993-04",
+      "n_patients": 144,
+      "taux_complication": 47.22,
+      "taux_succes": 70.14,
+      "duree_sejour_moy": 17.0,
+      "cout_moyen": 21881.0,
+      "taux_readmission": 17.36
+    },
+    {
+      "mois_admission": "1993-05",
+      "n_patients": 168,
+      "taux_complication": 44.64,
+      "taux_succes": 76.19,
+      "duree_sejour_moy": 15.3,
+      "cout_moyen": 19660.0,
+      "taux_readmission": 20.83
+    },
+    {
+      "mois_admission": "1993-06",
+      "n_patients": 163,
+      "taux_complication": 39.88,
+      "taux_succes": 77.3,
+      "duree_sejour_moy": 18.1,
+      "cout_moyen": 23067.0,
+      "taux_readmission": 17.18
+    },
+    {
+      "mois_admission": "1993-07",
+      "n_patients": 161,
+      "taux_complication": 40.37,
+      "taux_succes": 76.4,
+      "duree_sejour_moy": 17.4,
+      "cout_moyen": 22460.0,
+      "taux_readmission": 16.77
+    },
+    {
+      "mois_admission": "1993-08",
+      "n_patients": 180,
+      "taux_complication": 37.78,
+      "taux_succes": 78.33,
+      "duree_sejour_moy": 20.1,
+      "cout_moyen": 25693.0,
+      "taux_readmission": 16.11
+    },
+    {
+      "mois_admission": "1993-09",
+      "n_patients": 163,
+      "taux_complication": 41.1,
+      "taux_succes": 72.39,
+      "duree_sejour_moy": 17.7,
+      "cout_moyen": 22741.0,
+      "taux_readmission": 13.5
+    },
+    {
+      "mois_admission": "1993-10",
+      "n_patients": 162,
+      "taux_complication": 42.59,
+      "taux_succes": 70.37,
+      "duree_sejour_moy": 17.9,
+      "cout_moyen": 22899.0,
+      "taux_readmission": 12.96
+    },
+    {
+      "mois_admission": "1993-11",
+      "n_patients": 159,
+      "taux_complication": 43.4,
+      "taux_succes": 76.73,
+      "duree_sejour_moy": 20.3,
+      "cout_moyen": 25743.0,
+      "taux_readmission": 20.13
+    },
+    {
+      "mois_admission": "1993-12",
+      "n_patients": 146,
+      "taux_complication": 49.32,
+      "taux_succes": 70.55,
+      "duree_sejour_moy": 16.0,
+      "cout_moyen": 20721.0,
+      "taux_readmission": 19.86
+    },
+    {
+      "mois_admission": "1994-01",
+      "n_patients": 185,
+      "taux_complication": 48.11,
+      "taux_succes": 65.41,
+      "duree_sejour_moy": 17.6,
+      "cout_moyen": 22579.0,
+      "taux_readmission": 13.51
+    }
+  ]
+}
