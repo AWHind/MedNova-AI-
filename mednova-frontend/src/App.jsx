@@ -5,6 +5,7 @@ import Exploration from './pages/Exploration'
 import DashboardBI from './pages/DashboardBI'
 import Modeles from './pages/Modeles'
 import Admin from './pages/Admin'
+import Reports from './pages/Reports'
 
 export default function App() {
   return (
@@ -20,6 +21,7 @@ export default function App() {
               <Route path="/dashboard" element={<DashboardBI />} />
               <Route path="/modeles" element={<Modeles />} />
               <Route path="/admin" element={<Admin />} />
+              <Route path="/reports" element={<Reports />} />
             </Routes>
           </div>
         </main>
